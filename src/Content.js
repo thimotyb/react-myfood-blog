@@ -8,22 +8,26 @@ let data = [
     {   id: 1,
         img: 'https://www.w3schools.com/w3images/sandwich.jpg',
         title: 'The Perfect Sandwich, A Real NYC Classic',
-        desc: 'Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.'
+        desc: 'Just some random text, lorem ipsum text praesent tincidunt ipsum lipsum.',
+        rating: 2
     },
     {   id: 2,
         img: 'https://www.w3schools.com/w3images/steak.jpg',
         title: 'Let Me Tell You About This Steak',
-        desc: 'Once again some random text, lorem ipsum text praesent tincidunt ipsum lipsum.'
+        desc: 'Once again some random text, lorem ipsum text praesent tincidunt ipsum lipsum.',
+        rating: 4
     },
     {   id: 3,
         img: 'https://www.w3schools.com/w3images/cherries.jpg',
         title: 'Cherries, interrupted',
-        desc: 'More random text, lorem ipsum text.'
+        desc: 'More random text, lorem ipsum text.',
+        rating: 1
     },
     {   id: 4,
         img: 'https://www.w3schools.com/w3images/wine.jpg',
         title: 'Ripasso di Palazzo della Torre',
-        desc: 'Un vino intenso in botti di rovere tipico di Verona.'
+        desc: 'Un vino intenso in botti di rovere tipico di Verona.',
+        rating: 5
     },
     {   id: 5,
         img: 'https://www.w3schools.com/w3images/popsicle.jpg',
@@ -33,17 +37,20 @@ let data = [
     {   id: 6,
         img: 'https://www.w3schools.com/w3images/salmon.jpg',
         title: 'Norwegian Salmon Steamed',
-        desc: 'Healthy food to eat with your veggies.'
+        desc: 'Healthy food to eat with your veggies.',
+        rating: 2
     },
     {   id: 7,
         img: 'https://www.w3schools.com/w3images/sandwich.jpg',
         title: 'Tex-Mex Sandwich',
-        desc: 'Bacon and fried onion rings will make you fat as hell.'
+        desc: 'Bacon and fried onion rings will make you fat as hell.',
+        rating: 0
     },
     {   id: 8,
         img: 'https://www.w3schools.com/w3images/croissant.jpg',
         title: 'A good morning',
-        desc: 'French tradition for your flavored cappuccino.'
+        desc: 'French tradition for your flavored cappuccino.',
+        rating: 2
     }
 ];
 
